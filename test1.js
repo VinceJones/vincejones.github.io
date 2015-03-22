@@ -1,3 +1,5 @@
+takeNum(6);
+
 function takeNum (num) {
 	console.log("I've take a variable into the function named \"num\" that is equal to "+num+" and is now being displayed")
 	num+=1;
